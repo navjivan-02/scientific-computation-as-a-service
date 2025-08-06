@@ -32,6 +32,8 @@ frontend/*.sw?
 
 frontend/.config/
 !frontend/.env
+!frontend/client/lib/
+!frontend/client/lib/**
 
 # C extensions
 *.so
